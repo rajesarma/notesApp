@@ -1,0 +1,4 @@
+Url                                                       -                     Status
+
+http://appsdeveloperblog.com/zuul-api-gateway-tutorial/ -         (Pending)
+https://codewords.recurse.com/issues/one/an-introduction-to-functional-programming  (Pending)
